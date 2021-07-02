@@ -1,0 +1,16 @@
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\bin\Debug\net5.0\w3-h2-ref-out-kavramlari.exe
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\bin\Debug\net5.0\w3-h2-ref-out-kavramlari.deps.json
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\bin\Debug\net5.0\w3-h2-ref-out-kavramlari.runtimeconfig.json
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\bin\Debug\net5.0\w3-h2-ref-out-kavramlari.runtimeconfig.dev.json
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\bin\Debug\net5.0\w3-h2-ref-out-kavramlari.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\bin\Debug\net5.0\ref\w3-h2-ref-out-kavramlari.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\bin\Debug\net5.0\w3-h2-ref-out-kavramlari.pdb
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\obj\Debug\net5.0\w3-h2-ref-out-kavramlari.csproj.AssemblyReference.cache
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\obj\Debug\net5.0\w3-h2-ref-out-kavramlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\obj\Debug\net5.0\w3-h2-ref-out-kavramlari.AssemblyInfoInputs.cache
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\obj\Debug\net5.0\w3-h2-ref-out-kavramlari.AssemblyInfo.cs
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\obj\Debug\net5.0\w3-h2-ref-out-kavramlari.csproj.CoreCompileInputs.cache
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\obj\Debug\net5.0\w3-h2-ref-out-kavramlari.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\obj\Debug\net5.0\ref\w3-h2-ref-out-kavramlari.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\obj\Debug\net5.0\w3-h2-ref-out-kavramlari.pdb
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w3-h2-ref-out-kavramlari\w3-h2-ref-out-kavramlari\obj\Debug\net5.0\w3-h2-ref-out-kavramlari.genruntimeconfig.cache
