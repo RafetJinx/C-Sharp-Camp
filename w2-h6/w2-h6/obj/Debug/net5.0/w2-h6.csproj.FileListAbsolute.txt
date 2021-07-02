@@ -1,0 +1,16 @@
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\bin\Debug\net5.0\w2-h6.exe
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\bin\Debug\net5.0\w2-h6.deps.json
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\bin\Debug\net5.0\w2-h6.runtimeconfig.json
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\bin\Debug\net5.0\w2-h6.runtimeconfig.dev.json
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\bin\Debug\net5.0\w2-h6.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\bin\Debug\net5.0\ref\w2-h6.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\bin\Debug\net5.0\w2-h6.pdb
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\obj\Debug\net5.0\w2-h6.csproj.AssemblyReference.cache
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\obj\Debug\net5.0\w2-h6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\obj\Debug\net5.0\w2-h6.AssemblyInfoInputs.cache
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\obj\Debug\net5.0\w2-h6.AssemblyInfo.cs
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\obj\Debug\net5.0\w2-h6.csproj.CoreCompileInputs.cache
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\obj\Debug\net5.0\w2-h6.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\obj\Debug\net5.0\ref\w2-h6.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\obj\Debug\net5.0\w2-h6.pdb
+C:\Users\rafet\OneDrive\noname\Masaüstü\kısa\w2-h6\w2-h6\obj\Debug\net5.0\w2-h6.genruntimeconfig.cache
