@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "w3-h2-ref-out-kavramlari/1.0.0": {
+        "runtime": {
+          "w3-h2-ref-out-kavramlari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w3-h2-ref-out-kavramlari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
