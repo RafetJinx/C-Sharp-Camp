@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "w4-h5-Dictionary-Demo/1.0.0": {
+        "runtime": {
+          "w4-h5-Dictionary-Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w4-h5-Dictionary-Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

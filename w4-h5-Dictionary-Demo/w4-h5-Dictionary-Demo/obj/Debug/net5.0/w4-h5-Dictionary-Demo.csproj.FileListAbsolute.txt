@@ -1,0 +1,16 @@
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\bin\Debug\net5.0\w4-h5-Dictionary-Demo.exe
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\bin\Debug\net5.0\w4-h5-Dictionary-Demo.deps.json
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\bin\Debug\net5.0\w4-h5-Dictionary-Demo.runtimeconfig.json
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\bin\Debug\net5.0\w4-h5-Dictionary-Demo.runtimeconfig.dev.json
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\bin\Debug\net5.0\w4-h5-Dictionary-Demo.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\bin\Debug\net5.0\ref\w4-h5-Dictionary-Demo.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\bin\Debug\net5.0\w4-h5-Dictionary-Demo.pdb
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\obj\Debug\net5.0\w4-h5-Dictionary-Demo.csproj.AssemblyReference.cache
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\obj\Debug\net5.0\w4-h5-Dictionary-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\obj\Debug\net5.0\w4-h5-Dictionary-Demo.AssemblyInfoInputs.cache
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\obj\Debug\net5.0\w4-h5-Dictionary-Demo.AssemblyInfo.cs
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\obj\Debug\net5.0\w4-h5-Dictionary-Demo.csproj.CoreCompileInputs.cache
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\obj\Debug\net5.0\w4-h5-Dictionary-Demo.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\obj\Debug\net5.0\ref\w4-h5-Dictionary-Demo.dll
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\obj\Debug\net5.0\w4-h5-Dictionary-Demo.pdb
+C:\Users\rafet\OneDrive\noname\Masaüstü\C# Camp\C-Sharp-Camp\w4-h5-Dictionary-Demo\w4-h5-Dictionary-Demo\obj\Debug\net5.0\w4-h5-Dictionary-Demo.genruntimeconfig.cache
